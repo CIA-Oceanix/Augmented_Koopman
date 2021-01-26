@@ -1,4 +1,4 @@
-Copyright IMT Atlantique/OceaniX, contributor(s) : S. Ouala, A. Pascual, R. Fablet, 23/03/2020
+Copyright IMT Atlantique/OceaniX, contributor(s) : S. Ouala, B. chapron, A. Pascual, F. Collard, L. Gaultier, R. Fablet, 26/01/2021
 
 Contact person: said.ouala@imt-atlantique.fr
 

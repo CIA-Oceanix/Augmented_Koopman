@@ -1,4 +1,3 @@
-RINN
 Implementation of an Augmented Koopman representation
 
 Associated paper : to be posted

@@ -1,5 +1,5 @@
 RINN
-Implementation of paper Residual Integration Neural network and some stability analysis notebook
+Implementation of an Augmented Koopman representation
 
 Associated paper : to be posted
 
